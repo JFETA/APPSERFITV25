@@ -1,1 +1,16 @@
-/build
+# Android/IntelliJ
+.idea/
+.gradle/
+local.properties
+*.iml
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Firebase
+google-services.json
+
+# OS
+.DS_Store
+Thumbs.db
